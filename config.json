@@ -1,0 +1,14 @@
+{
+  "botprefix":"h!",
+  "server":"724786666291593277",
+  "menutextcolor":"رنگ خود را انتخاب کنید",
+  "menutextuser":"اموقعیت خود را در دیسکورد انتخاب کنید",
+  "menutextgame":"بازی مورد علاقه خود را انتخاب کنید",
+  "menutextdevice":"دستگاه خود را انتخاب کنید",
+  "menutextgender":"جنسیت خود را انتخاب کنید",
+  "menutexthidden":"بحش هایی که می خواهید مخفی شوند را انتخاب کنید",
+  "thumbnailurl":"https://cdn.discordapp.com/attachments/944127256178073641/948218642896662589/Hamilton.gif",
+  "crossmarkurl":"https://cdn.discordapp.com/attachments/894945259975475210/948283229939585065/CrossMark.png",
+  "checkmarkurl":"https://cdn.discordapp.com/attachments/894945259975475210/948283229725667418/CheckMark.png",
+  "embedcolor":"22e08a"
+}
